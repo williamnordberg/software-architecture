@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\KWIC_asignment1\KWIC_asignment1\bin\Debug\KWIC_asignment1.exe.config
+C:\Users\Asus\source\repos\KWIC_asignment1\KWIC_asignment1\bin\Debug\KWIC_asignment1.exe
+C:\Users\Asus\source\repos\KWIC_asignment1\KWIC_asignment1\bin\Debug\KWIC_asignment1.pdb
+C:\Users\Asus\source\repos\KWIC_asignment1\KWIC_asignment1\obj\Debug\KWIC_asignment1.exe
+C:\Users\Asus\source\repos\KWIC_asignment1\KWIC_asignment1\obj\Debug\KWIC_asignment1.pdb
+C:\willy\univercity\Programvaruteknik 3 Programvaruarkitektur och processer(DVA422)\lab\assignmen1\assignment1 resubmit\KWIC_asignment1\KWIC_asignment1\bin\Debug\KWIC_asignment1.exe.config
+C:\willy\univercity\Programvaruteknik 3 Programvaruarkitektur och processer(DVA422)\lab\assignmen1\assignment1 resubmit\KWIC_asignment1\KWIC_asignment1\bin\Debug\KWIC_asignment1.exe
+C:\willy\univercity\Programvaruteknik 3 Programvaruarkitektur och processer(DVA422)\lab\assignmen1\assignment1 resubmit\KWIC_asignment1\KWIC_asignment1\bin\Debug\KWIC_asignment1.pdb
+C:\willy\univercity\Programvaruteknik 3 Programvaruarkitektur och processer(DVA422)\lab\assignmen1\assignment1 resubmit\KWIC_asignment1\KWIC_asignment1\obj\Debug\KWIC_asignment1.csprojAssemblyReference.cache
+C:\willy\univercity\Programvaruteknik 3 Programvaruarkitektur och processer(DVA422)\lab\assignmen1\assignment1 resubmit\KWIC_asignment1\KWIC_asignment1\obj\Debug\KWIC_asignment1.exe
+C:\willy\univercity\Programvaruteknik 3 Programvaruarkitektur och processer(DVA422)\lab\assignmen1\assignment1 resubmit\KWIC_asignment1\KWIC_asignment1\obj\Debug\KWIC_asignment1.pdb
